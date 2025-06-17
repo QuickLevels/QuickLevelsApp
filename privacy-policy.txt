@@ -1,0 +1,66 @@
+PRIVACY POLICY
+
+Last updated: June 17, 2025
+
+1. INTRODUCTION
+
+This Privacy Policy describes how QuickLevels ("we," "our," or "us") handles information in relation to our iOS mobile application (the "App"). We are committed to protecting your privacy and being transparent about our data practices.
+
+2. NO PERSONAL DATA COLLECTION BY US
+
+We do not directly collect, process, store, or share any personal data from users of our App. Our App is designed to function without requiring:
+- User registration
+- Account creation
+- Personal information input
+- Contact details
+- Location data
+- Device identifiers
+
+3. NO REGISTRATION REQUIRED
+
+Our App can be used immediately upon installation without any registration process. You do not need to provide any personal information to access or use the App's features.
+
+4. GOOGLE ADMOB
+
+We use Google AdMob to display advertisements in our App. Google AdMob may collect certain information automatically to provide relevant ads, including:
+- Device information (device type, operating system, device identifiers)
+- Ad interaction data
+- General location information (country/region level)
+- Technical data for ad serving optimization
+
+This data collection is performed by Google's AdMob service, not directly by us. Google may use this information in accordance with their own privacy policy to personalize ads and measure ad performance.
+
+You can opt out of personalized advertising by visiting your device's privacy settings or through Google's Ad Settings.
+
+For more information about Google AdMob data collection, please visit:
+https://policies.google.com/privacy
+https://support.google.com/admob/answer/6128543
+
+5. THIRD-PARTY SERVICES
+
+Our App may use additional services that have their own privacy policies:
+- Google AdMob (for advertising)
+- Apple App Store services (for app distribution and analytics)
+
+These services may collect data as described in their respective privacy policies.
+
+6. DATA RETENTION
+
+Since we do not collect personal data directly, we do not retain personal information. Any data collected by Google AdMob is subject to Google's data retention policies.
+
+7. CHILDREN'S PRIVACY
+
+Our App does not knowingly collect personal information from children under 13 years of age.
+
+8. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time. We will notify users of any material changes by updating the "Last updated" date at the top of this policy.
+
+9. CONTACT US
+
+If you have any questions about this Privacy Policy, please contact us at:
+support@quicklevels.com
+
+10. YOUR RIGHTS
+
+Since we do not collect personal data, there is no personal data for you to access, modify, or delete from our systems. For any data collected by Google AdMob, please refer to Google's privacy controls and policies. You can also control ad personalization through your device's privacy settings.
